@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/env python
 # @Time    : 2021-03-21
-# @Author  : 409162075
+# @Author  : 
 # @FileName: zoomeye_get_url.py
 
 
